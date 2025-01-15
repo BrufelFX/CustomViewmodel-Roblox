@@ -5,4 +5,4 @@ A simple custom viewmodel is enough to create a folder in the script “Models�
 viewmodel module script place it in “ReplicatedStorage”
 if you want to use ViewmodelLocalScript, place it in “StarterCharacterScripts”.
 
-NOTE THIS SCRIPT IS AS A MODULE AND ONLY ON THE CLIENT SIDE
+# NOTE THIS SCRIPT IS AS A MODULE AND ONLY ON THE CLIENT SIDE
